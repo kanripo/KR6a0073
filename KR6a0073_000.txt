@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 須達經
+#+DATE: 2015-08-30 19:30:14.033328
+#+PROPERTY: JUAN 0
